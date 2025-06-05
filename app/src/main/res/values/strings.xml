@@ -26,6 +26,42 @@
 
     <!--    Luck-->
     <string name="share">Share</string>
+
+
+    <string name="luck_01">Hoy tendrás una oportunidad inesperada, aprovéchala.</string>
+    <string name="luck_02">Alguien del pasado podría contactarte.</string>
+    <string name="luck_03">Una decisión rápida te beneficiará más de lo que imaginas.</string>
+    <string name="luck_04">La paciencia será tu mejor aliada hoy.</string>
+    <string name="luck_05">Un pequeño gesto traerá grandes recompensas.</string>
+    <string name="luck_06">Evita discutir, el silencio será más sabio.</string>
+    <string name="luck_07">Tu creatividad estará al máximo, úsala.</string>
+    <string name="luck_08">Un encuentro casual puede cambiar tu día.</string>
+    <string name="luck_09">Escucha más de lo que hablas hoy.</string>
+    <string name="luck_10">El hogar será tu fuente de energía.</string>
+    <string name="luck_11">Recibirás una buena noticia en la tarde.</string>
+    <string name="luck_12">Un sueño te revelará algo importante.</string>
+    <string name="luck_13">Tu liderazgo será reconocido.</string>
+    <string name="luck_14">Hoy brillarás sin esfuerzo.</string>
+    <string name="luck_15">Un elogio inesperado te levantará el ánimo.</string>
+    <string name="luck_16">Un detalle pequeño te dará claridad.</string>
+    <string name="luck_17">Hoy es buen día para poner en orden tus planes.</string>
+    <string name="luck_18">Cuida tu salud emocional, no te sobrecargues.</string>
+    <string name="luck_19">El equilibrio que buscas llegará en forma de sorpresa.</string>
+    <string name="luck_20">Una conversación pendiente traerá alivio.</string>
+    <string name="luck_21">Tu carisma atraerá nuevas amistades.</string>
+    <string name="luck_22">Alguien confía en ti más de lo que imaginas.</string>
+    <string name="luck_23">No temas expresar tus sentimientos hoy.</string>
+    <string name="luck_24">Una verdad saldrá a la luz: acéptala con calma.</string>
+    <string name="luck_25">Un cambio de planes será para bien.</string>
+    <string name="luck_26">La aventura que buscas está más cerca de lo que crees.</string>
+    <string name="luck_27">Hoy, tu optimismo contagiará a otros.</string>
+    <string name="luck_28">El esfuerzo reciente comenzará a dar frutos.</string>
+    <string name="luck_29">Un consejo viejo te será útil hoy.</string>
+    <string name="luck_30">Tu disciplina será clave para cerrar bien el día.</string>
+    <string name="luck_31">Probabilidad de emprender un gran negocio.</string>
+    <string name="luck_32">Probabilidad de un viaje largo.</string>
+
+
 </resources>
 
 
