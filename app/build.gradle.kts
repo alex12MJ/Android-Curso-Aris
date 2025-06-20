@@ -20,6 +20,15 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+    packaging {
+        resources {
+            excludes.add("META-INF/LICENSE.md")
+            excludes.add("META-INF/LICENSE-notice.md")
+        }
+    }
+
+
+
     buildTypes {
         getByName("release") {
             isMinifyEnabled = false
@@ -53,6 +62,9 @@ android {
 }
 
 dependencies {
+    testImplementation("junit:junit:4.12")
+    testImplementation("junit:junit:4.12")
+    testImplementation("junit:junit:4.12")
     //implementation("androidx.core:core-ktx:1.9.0")
 
     val navVersion = "2.7.1"
@@ -70,6 +82,9 @@ dependencies {
     implementation(libs.retrofit.gson)
     implementation(libs.okhttp.logging)
 
+    //Librerias testing
+    implementation("io.kotlintest:kotlintest-runner-junit5:3.4.2")
+
 
     // CameraX
     implementation(libs.camera.core)
@@ -78,6 +93,8 @@ dependencies {
     implementation(libs.camera.view)
     implementation(libs.camera.extensions)
 
+
+    testImplementation(libs.mockk)
 
 
     implementation(libs.androidx.core.ktx)
